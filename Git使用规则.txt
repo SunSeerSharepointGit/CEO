@@ -1,0 +1,21 @@
+建立自己的分支：
+	origin/develop/自己名字的?写
+
+	例：origin/develop/feature/csj
+
+	feature:??中
+	hotfix：上?前后的bug??
+	
+	在??中
+	例：origin/develop/feature/csj
+
+	上?前后
+	例：origin/develop/hotfix/csj
+
+代?上?：
+1.在commit之前，先更新develop，然后把develop的内容同?（merge：マージ）到自己的分支上
+2.然后把自己??的代?commit到自己分支
+3.最后把自己??好的分支同?（merge：マージ）到develop上去
+
+注意事?：
+	??不要修改master上面的内容
